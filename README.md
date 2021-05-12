@@ -1,4 +1,4 @@
-# nickel_spiroannulations
+# Nickel-catalyzed annulations of **ortho**-haloarylimines
 This repository is associated with our disclosure of a method to make indanyl amines and spiroindane pyrrolidines under nickel catalysis. The manuscript is deposited on ChemRxiv and consists of the main text and the supporting information.
 The folders in this repository correspond to the main findings in the manuscript and can help others who wish to dig deeper into the data we obtained while working on this project.
 There are 6 main folders:
