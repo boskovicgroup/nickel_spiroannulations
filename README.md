@@ -9,9 +9,9 @@ There are 6 main folders:
 5) HPLC
 6) kinetics
 
-The folder 1 contains the raw and processed files for the determination of activation energy of oxidative addition of two substrates (chloride and bromide) at different temperatures. These data correspond to Figure 4 in the manuscript. The processing of the data is aided through several scripts that are in the "kinetics" folder which are pulled from a different repository.
-Folder 2 contains the raw and processed files (calibration and measuerements) for the data in figure 6. 
-Folder 3 contains the yields and conditions used for making figure 8. 
-Folder 5 contains the data for figure 7. 
+The folder 1 contains the raw and processed files for the determination of activation energy of oxidative addition of two substrates (chloride and bromide) at different temperatures. These data correspond to Figure 4 in the manuscript. The processing of the data is aided through several scripts that are in the "kinetics" folder which are pulled from a different repository.<br>
+Folder 2 contains the raw and processed files (calibration and measuerements) for the data in figure 6.<br>
+Folder 3 contains the yields and conditions used for making figure 8.<br>
+Folder 5 contains the data for figure 7.<br> 
 Folder 4 contains the assigned NMR spectra of the new compounds prepared in this project. These are either starting materials, products, by-products, or nickel-containing intermediates that we could isolate and characterize. 
 
